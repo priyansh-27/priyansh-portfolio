@@ -52,7 +52,7 @@ export default function About() {
             </p>
 
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl md:max-w-3xl">
-              I am a Computer Science student at IIPS DAVV, Indore with a strong
+              I am a Information Technology student at IIPS DAVV, Indore with a strong
               passion for backend engineering, Android application development,
               and scalable software systems. I enjoy transforming ideas into
               efficient digital solutions using modern technologies and clean,
